@@ -52,6 +52,7 @@ export const ProfileCard = () => {
     const value = formData.get("value") as string;
 
     // send the user operation
+    console.log(Date.now())
     sendUserOperation({
       uo: { target, data, value: value ? BigInt(value) : 0n },
     });

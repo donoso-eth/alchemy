@@ -7,3 +7,5 @@ It leverages Alchemy Embedded Accounts using [Account Kit](https://accountkit.al
 ## Getting Started
 
 The run this app, you can get started in [Alchemy's Account Kit docs](https://accountkit.alchemy.com/getting-started/run-locally).
+1722585664629 
+ (Aug-02-2024 08:01:06 AM +UTC)
